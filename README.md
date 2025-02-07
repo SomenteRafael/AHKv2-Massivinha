@@ -4,15 +4,19 @@ Utilitário em Autohotkey v2 (AHKv2) para copiar uma lista de processos (Numera�
 
 - Nota: o sistema pode brevemente ser substituído com a impantação do eProc no TJMG.
 
-
 # Uso do Programa
 
 1. Entrada na primeira caixa de texto: Números de Processo do TJMG no formato 0.0000.00.000000-0/000, um por linha.
 2. Clicar no botão "Adicionar"
 3. Os processos devem aparecer na caixa da direita, para eventual conferência.
 4. Clicar no botão "Vamos Copiar!" e selecionar o local onde será inserido o primeiro número de processo na tela de Massiva por movimentação do SIAP.
+5. Esperar alguns segundos (o script tem um temporizador, ele vai começar a colar depois de um delay de 5s, então tenha certeza de selecionar o locar para colar nesse tempo).
 
 Dica: os números processo podem ser copiados diretamente de uma planilha, contanto que estejam corretamente formatados (Numeração do TJMG no formato 0.0000.00.000000-0/000) e posicionados um abaixo do outro.
+
+# Captura de Tela
+
+![massivinhaBlackScreenshot](https://github.com/user-attachments/assets/ffc968e8-f42a-40d9-a309-7ac7e8e493d6)
 
 # License
 
