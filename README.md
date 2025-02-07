@@ -14,6 +14,10 @@ Utilitário em Autohotkey v2 (AHKv2) para copiar uma lista de processos (Numera�
 
 Dica: os números processo podem ser copiados diretamente de uma planilha, contanto que estejam corretamente formatados (Numeração do TJMG no formato 0.0000.00.000000-0/000) e posicionados um abaixo do outro.
 
+# Baixar a Massivinha
+
+Você pode baixar o executável da última versão da Massivinha (Massivinha_Black.exe) na [Lista de Releases](https://github.com/SomenteRafael/massivinha/releases).
+
 # Captura de Tela
 
 ![massivinhaBlackScreenshot](https://github.com/user-attachments/assets/ffc968e8-f42a-40d9-a309-7ac7e8e493d6)
